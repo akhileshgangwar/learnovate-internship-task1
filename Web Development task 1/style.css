@@ -52,6 +52,9 @@ hr.line1{
     margin-top: auto;
     margin-bottom: auto;
 }
+.navbar{
+    margin-top: 20px;
+}
 .navbar ul {
     list-style: none;
     position: relative;
